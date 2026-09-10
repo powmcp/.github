@@ -7,7 +7,7 @@ Hosted MCP tools and task-focused skills for evidence-based checks.
 ## Hosted tools
 
 - [SSL Certificate Check](https://powmcp.com/apps/ssl-certificate-check/)
-- [Ebook File Check](https://powmcp.com/apps/ebook-file-check/)
+- [Ebook File Check](https://powmcp.com/apps/epub-check/)
 - [Caption File Check](https://powmcp.com/apps/caption-file-check/)
 
 Visit each product page for its capabilities, limitations, and connection instructions.
